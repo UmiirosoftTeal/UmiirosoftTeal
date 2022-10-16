@@ -1,3 +1,3 @@
 # Umiirosoft Teal
-公開までお待ちください...!  
-[準備ページ (公開後、サービスにリダイレクトされます)](https://umiirosoftteal.github.io/)
+Teal へリダイレクトします。
+[準備ページ (サービスにリダイレクトされます)](https://umiirosoftteal.github.io/)
