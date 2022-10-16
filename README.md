@@ -1,3 +1,3 @@
 # Umiirosoft Teal
-Teal へリダイレクトします。
+Teal へリダイレクトします。  
 [準備ページ (サービスにリダイレクトされます)](https://umiirosoftteal.github.io/)
