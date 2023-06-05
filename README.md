@@ -1,2 +1,2 @@
 # Umiirosoft Teal
-Teal API
+Teal API Offical Pages
