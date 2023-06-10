@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+:root {
+    --mainColor: #008080;
+    --subColor: #004747;
+    --acColor: #804000;
+    --textColor: #222222;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    color: var(--textColor);
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+*:focus {
+    outline: none;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+header {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .logo {
+    width: 150px;
+    padding: 15px;
+}
+
+header p {
+    padding: 15px;
+    font-weight: bold;
+}
+
+.icon {
+    width: 100%;
+    background: #272727;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.icon .iconLogo {
+    width: 350px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+hr {
+    color: #ffffff7e;
+}
+
+.main {
+    max-width: 80ch;
+    padding: 3em 1em;
+    margin: auto;
+    line-height: 1.75;
+    font-size: 1.05em;
+    text-align: center;
+}
+
+.hello {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.item {
+    width: 80%;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin: 10px;
+    border-bottom: solid 1px #cececea2;
+}
+
+.item img {
+    width: 300px;
+}
+
+.url {
+    width: 100%;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    padding: 10px;
+    border: none;
+    border: solid #afafaf 1px;
+    border-radius: 20px;
+    color: #000;
+}
